@@ -1,0 +1,4 @@
+final-venv/
+*.ipynb
+.vscode/
+.ipynb_checkpoints/
